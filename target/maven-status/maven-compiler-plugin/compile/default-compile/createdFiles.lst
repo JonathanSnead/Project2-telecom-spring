@@ -1,0 +1,5 @@
+com/skillstorm/telecom/controllers/DeviceController.class
+com/skillstorm/telecom/data/DeviceRepository.class
+com/skillstorm/telecom/beans/Device.class
+com/skillstorm/telecom/TelecomSpringApplication.class
+com/skillstorm/telecom/services/DeviceService.class

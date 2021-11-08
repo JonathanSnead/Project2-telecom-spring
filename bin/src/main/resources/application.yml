@@ -1,0 +1,6 @@
+spring:
+  datasource: 
+    url: jdbc:mysql://telecom-mysql-nhuda.mysql.database.azure.com:3306/telecom?useSSL=true
+    username: nafhuda@telecom-mysql-nhuda
+    password: Telecom123$
+    driver-class-name: com.mysql.cj.jdbc.Driver

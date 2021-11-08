@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: titan-wireless
+  datasource: 
+    url: jdbc:mysql://titan-wireless-db.mysql.database.azure.com:3306/telecom?useSSL=true&requireSSL=false
+    username: jsnead@titan-wireless-db
+    password: Telecom123$
+    driver-class-name: com.mysql.cj.jdbc.Driver
